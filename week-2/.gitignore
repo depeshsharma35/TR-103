@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore dataset folder and generated data files
+data_zenodo/
+*.pkl
+*.csv
+
+# Ignore batch scripts
+*.bat
+
+# Ignore generated visualizations
+*.png
+
+# Ignore environment variables
+.env
+.env.*
+!.env.example
