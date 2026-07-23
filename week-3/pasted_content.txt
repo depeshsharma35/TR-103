@@ -1,0 +1,137 @@
+Machine Learning Task 3 (2026)
+By Future Interns
+Resume / Candidate Screening System
+
+🔍 About the Task
+Hiring teams receive hundreds of resumes for a single job role.
+Manually reading each resume is slow, inconsistent, and error-prone.
+
+This is why many companies use Machine Learning–based resume screening systems to:
+
+shortlist candidates faster
+match skills with job requirements
+identify missing or weak skills
+reduce recruiter workload
+In this task, you will build a real ML system that automatically screens, scores, and ranks resumes based on a given job role.
+
+This is a very job-relevant project, commonly used in HR-tech startups, recruitment platforms, and enterprise hiring tools.
+
+🎯 Objective
+Your goal is to build an ML system that can:
+
+Read resume text (PDF/Text datasets)
+Extract skills and relevant keywords
+Compare resumes with a job description
+Rank candidates based on role fit
+Highlight missing or required skills
+This mirrors how real resume screening tools work, just on a smaller, beginner-friendly scale.
+
+✅ What You’ll Do
+As part of this task, you will:
+
+Work with unstructured resume text data
+Clean and preprocess text
+Extract skills using NLP techniques
+Build similarity or scoring logic
+Rank candidates based on job relevance
+Explain results clearly for non-technical users
+You are learning decision-support ML, not just model training.
+
+🛠️ Tools You’ll Use
+This task focuses on Natural Language Processing (NLP).
+
+Core Development Tools
+Python – https://www.python.org
+Jupyter Notebook – https://jupyter.org
+VS Code – https://code.visualstudio.com
+GitHub – https://github.com
+NLP & ML Libraries
+spaCy – https://spacy.io
+(skill extraction, NLP pipelines)
+NLTK – https://www.nltk.org
+(text preprocessing & tokenization)
+Scikit-learn – https://scikit-learn.org
+(vectorization, similarity, ranking logic)
+📁 Dataset Guidance (Choose Any)
+You may use any dataset that represents resumes, job descriptions, or skill text.
+
+✅ Recommended Working Datasets
+📄 Resume Dataset (Kaggle)
+🔗 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+Text-based resumes
+Multiple job categories
+Beginner-friendly
+📄 Resume Entities & Job Roles Dataset
+🔗 https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+
+Useful for skill extraction
+Great for NLP practice
+📄 Job Descriptions Dataset
+🔗 https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom
+
+Real job descriptions
+Useful for skill matching & role comparison
+⚠️ You may also use:
+
+simulated resumes
+anonymized student resumes
+custom job descriptions
+As long as the data reflects real hiring scenarios, it is valid.
+
+✨ Key Features to Implement
+Your solution should include:
+
+✔ Resume text cleaning & preprocessing
+✔ Skill extraction using NLP
+✔ Job description parsing
+✔ Resume-to-role similarity scoring
+✔ Candidate ranking based on role fit
+✔ Skill gap identification
+
+Optional bonus:
+
+Weighting important skills
+Visual comparison of candidates
+📤 Final Deliverable
+You must submit:
+
+A resume screening & ranking system
+Clear explanation of:
+how resumes are scored
+why certain candidates rank higher
+what skills are missing
+Clean, well-documented code in a public GitHub repository
+Your output should feel like something you could confidently show to:
+
+a recruiter
+an HR manager
+an HR-tech startup
+📁 GitHub Inspiration (Verified & Safe)
+You may explore these working GitHub topic pages for structure and ideas
+(do NOT copy code):
+
+🔹 Resume Parsing Projects
+🔗 https://github.com/topics/resume-parser
+
+🔹 NLP Resume Screening Projects
+🔗 https://github.com/topics/resume-screening
+
+🔹 Job Description Matching / NLP
+🔗 https://github.com/topics/text-similarity
+
+Use these links to understand:
+
+project structure
+NLP workflow
+scoring logic
+Your implementation must be original and explainable.
+
+Showcase Your Work
+Once completed:
+
+Share screenshots or demo videos on LinkedIn
+Explain which business you built it for
+Tag Future Interns
+ https://www.linkedin.com/company/future-interns/
+This builds visibility, confidence, and credibility.
